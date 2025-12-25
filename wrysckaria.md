@@ -20,7 +20,7 @@
 ## Society and culture
 ### Minorities
 Apart from the Wriscks, Otterfolks are also native to this land. Modern Wrisckaria and Wrisck people have done a lot of work on their racism towards Otterfolks, but in the past Otterfolks used to be isolated in their own neighborhoods. There is still a lot of activism going on.
-## Architecture
+### Architecture
 Wrisck buildings are short and sturdy to withstand the cold. Their rooftops are steep so snow falls off easily. The Wriscks are proud of their brickmaking, so little paint is used to show off the natural color of the bricks. 
 ### Arts & Craft
 - **Brickmaking** is considered an art form of its own. Bricks are colored with the minerals found in Nibelgas' mines so they have a natural shininess. You can find colorful brick patterns everywhere in Wrysckaria.
