@@ -10,4 +10,4 @@ The story follows Rostafr Nibelund, an officer from the Magic Safety Commission,
 
 ## Countries
 * [Viên](vien.md)
-* [Wrysckaria](wrysckcaria.md)
+* [Wrysckaria](wrysckaria.md)
