@@ -1,8 +1,14 @@
 **Location:** North of the continent
+
 **Culture group:** Northern-Central culture
+
 **Inspiration:** Germanic/Norse/Baltic
+
 **Demonym:** Wrisck
+
 **Official religion:** Wrisck folk belief
+
+
 ## Geography
 **Climate:** mild summer, harsh winter, arid
 **Geographical location:** a nation with its back facing the Nibelgas.
