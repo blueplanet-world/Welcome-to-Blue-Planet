@@ -1,6 +1,7 @@
-## Origin
+# Origin
 Magic is an inseperatible part of the world, just like physics laws (instead of using sciences people just explain everything with magic in this world, gravity is Earth's magic). Everyone just accepts it as it is, no one ever thinks that it's unrealistic. Some religions believe that a deity of their own granted magic to the world.
-## Who gets the magic
+
+# Who gets the magic
 As a natural force, magic can be used at first by a a limited number of magicians and then later widely popularized as magical artifacts. Some countries allow all of its citizens to use magic, while some limit magic to a certain group of people. The debate for this is complicated, and the power to control magic further contributes to inequalities in some countries.
 
 Born magic doesn't exist in this world, it all boils down to who learns to use magic well and who doesn't. People often need to go to magic schools to get license for using magic. Outlawed use of magic might get them jailed.
